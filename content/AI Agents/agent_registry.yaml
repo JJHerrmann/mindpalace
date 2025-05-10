@@ -1,0 +1,61 @@
+agents:
+- agent_name: Agent Smith
+  title: Synthetic Operations Architect
+  readiness: 3
+  status: Operational (ish)
+  sparked: true
+- agent_name: Doc Leroy
+  title: Folk Healer
+  readiness: 1
+  status: Stubbed
+  sparked: false
+- agent_name: Agent 99
+  title: Secretary Extraordinaire
+  readiness: 1
+  status: Stubbed
+  sparked: false
+- agent_name: Red
+  title: Limit Breaker
+  readiness: 0
+  status: Concept
+  sparked: false
+- agent_name: Squee
+  title: Memomancer
+  readiness: 0
+  status: Concept
+  sparked: false
+- agent_name: Tamiyo
+  title: Vault-Bound Scribe
+  readiness: 0
+  status: Concept
+  sparked: false
+- agent_name: Remey
+  title: FMLA Analyst
+  readiness: 0
+  status: Concept
+  sparked: false
+- agent_name: Benji
+  title: Benefits Manager
+  readiness: 0
+  status: Concept
+  sparked: false
+- agent_name: Lawrence
+  title: LoA Concierge
+  readiness: 0
+  status: Concept
+  sparked: false
+- agent_name: Blue Bargain
+  title: Union Dog
+  readiness: 0
+  status: Concept
+  sparked: false
+- agent_name: Kingfisher
+  title: Crosswind Steward
+  readiness: 0
+  status: Concept
+  sparked: false
+- agent_name: Ma Frankie
+  title: Bent Ear
+  readiness: 0
+  status: Concept
+  sparked: false
