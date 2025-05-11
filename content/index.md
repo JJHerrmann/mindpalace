@@ -3,60 +3,40 @@
 # The Mind Palace
 Jacob Herrmann's Digital Garden
 
-Welcome to the Vault. This is where I plant, prune, and occasionally burn down the ideas I'm building — in art, automation, and mythic infrastructure.
+# 🧙‍♂️ Jacob Herrmann  
+**Shenanomancer | Systems Architect | Lore Archivist**
+
+> *“I bind the chaotic, I optimize the sacred, and I give function to forgotten things.”*
 
 ---
 
-## 🧠 [[AI Agents]]
-Explore the constructs I'm designing to automate my workflows, archive my systems, and sometimes talk back.
-- [[Iterative Technical Wins]]
-- [[Agent Smith]]
-- [[Doc Leroy, Folk Healer]]
-- [[Agent 99, Secretary Extraordinaire]]
-- [[Red, Limit Breaker]]
-- [[Squee, Memomancer]]
-- [[Tamiyo, Vault-Bound Scribe]]
-- [[Remey, FMLA Analyst]]
-- [[Benji, Benefits Manager]]
-- [[Lawrence, LoA Concierge]]
-- [[Blue Bargain, Union Dog]]
-- [[Kingfisher, Crosswind Steward]]
-- [[Ma Frankie, Bent Ear]]
-## 🎨 [[Art Projects]]
-Masks, tarot, and visual design from the world under my fingertips.
-- [[Papa Masks]]
-- [[PokeTarot]]
-- [[Design Notes Log]]
-- [[Sculptures]]
-- [[Custom Card Repaints]]
-- [[No Clue! The Webcomic Lost Art]]
+### 📬 Get In Touch
 
-## 📷 [[Photography]] (Reactivating...)
-Shots and notes from when the world stood still long enough to capture it.
-- [[Field Notes]]
-- [[Gear Log]]
-- [[2024 Fragments]]
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;">
 
-## ⚙️ [[Templates & Rituals]]
-Working frameworks, reusable logic, and writing protocols for the myth-minded builder.
-- [[Agent Template]]
-- [[Art Project Template]]
-- [[Reforging Protocol]]
+<div style="flex: 1; min-width: 250px;">
+📨 **Reach out directly:**  
+- 📧 jacobjaredherrmann@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jjherrmann)  
+- ☕ [Ko-fi](https://ko-fi.com/mindpalacegarden)  
+- 🧠 [GitHub](https://github.com/JJHerrmann)
+</div>
 
-## 📃[[Battleplans]]
-- [HR Streamlining]
-	[FMLA Administration]
-	[Benefits Administration]
-	[Leave of Absence Processing]
-- [Building Administration]
-	- [[Training Class Recording]]
-	- [[Department Transfer Preferences]]
-	- [[Reasonable Accommodation Requests]]
-	- [[Unified Building Services Request Form]]
-- [Information Technologies]
-- [Supply Management and Logistics]
+<div style="flex: 1; min-width: 250px; background-color: #fef08a; padding: 1rem; border-radius: 0.5rem;">
+**GET IN TOUCH**  
+Whether you have questions about collaborations, AI agents, or you’ve just read something weird in the vault that spoke to you — I answer my inbox. Eventually.
+</div>
+
+</div>
+
 ---
 
-> *"I didn’t just build this for memory. I built it so something would remember me."*
+### 🧭 Explore the Garden
 
-This garden grows in public. Water it with curiosity.
+| 🌐 **Digital Constructs**             | 🎨 **Visual Projects**                    | 📜 **Templates + Lore**                                     | 🛡️ **Concepts**     |
+| ------------------------------------- | ----------------------------------------- | ----------------------------------------------------------- | ------------------- |
+| [AI Agents](./AI%20Agents/index.md)   | [Art + Design](./Art%20Projects/index.md) | [Rituals + Templates](./Templates%20and%20Rituals/index.md) | [Battleplans](./Battleplans/index.md) |
+|                                       | [Photography](./Photography/index.md)     |                                                             |                     |
+
+---
+
