@@ -6,6 +6,12 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description> The Mind Palace Jacob Herrmann’s Digital Garden 🧙‍♂️ Jacob Herrmann Shenanomancer | Systems Architect | Lore Archivist “I bind the chaotic, I optimize the sacred, and I give function to forgotten things.” 📬 Get In Touch 📨 **Reach out directly:** - 📧 jacobjaredherrmann@gmail.com - 💼 [LinkedIn](...</description>
+    <pubDate>Sun, 11 May 2025 16:19:09 GMT</pubDate>
+  </item><item>
     <title>AI Agents</title>
     <link>https://quartz.jzhao.xyz/AI-Agents/AI-Agents</link>
     <guid>https://quartz.jzhao.xyz/AI-Agents/AI-Agents</guid>
@@ -57,12 +63,6 @@
     <title>Lawrence, LoA Concierge</title>
     <link>https://quartz.jzhao.xyz/AI-Agents/Lawrence,-LoA-Concierge</link>
     <guid>https://quartz.jzhao.xyz/AI-Agents/Lawrence,-LoA-Concierge</guid>
-    <description>Build Status: Current Version: v0.0.1 Conceptual Last Update: May 2025 💾 Download Availability This agent is currently at Readiness Level {{3}} – {{Operational-ish}}.</description>
-    <pubDate>Sat, 10 May 2025 16:48:09 GMT</pubDate>
-  </item><item>
-    <title>Ma Frankie, Bent Ear</title>
-    <link>https://quartz.jzhao.xyz/AI-Agents/Ma-Frankie,-Bent-Ear</link>
-    <guid>https://quartz.jzhao.xyz/AI-Agents/Ma-Frankie,-Bent-Ear</guid>
     <description>Build Status: Current Version: v0.0.1 Conceptual Last Update: May 2025 💾 Download Availability This agent is currently at Readiness Level {{3}} – {{Operational-ish}}.</description>
     <pubDate>Sat, 10 May 2025 16:48:09 GMT</pubDate>
   </item>
